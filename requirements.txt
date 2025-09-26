@@ -1,0 +1,18 @@
+#Core Deep Learning and Data Science Libraries
+tensorflow
+numpy
+pandas
+scikit-Learn 
+matplotlib
+seaborn
+jupyter
+opencv-python 
+
+#Image Handling 
+Pillow 
+
+#Explainable AI and Deployment 
+gradio
+
+#Data Augmentation
+kaggle 

@@ -1,4 +1,4 @@
-## AI-Powered Brain Tumor Diagnosis with Explainable AI (XAI)
+## AI-Powered Brain Tumor Diagnosis with Explainable AI 
 
 Welcome to the "Glass Box" Brain Tumor Classifier, a project that goes beyond prediction to provide understanding. This repository contains an end-to-end deep learning pipeline that not only classifies brain tumors from MRI scans with high accuracy but also explains *why* it makes its decisions using cutting-edge Explainable AI.
 
